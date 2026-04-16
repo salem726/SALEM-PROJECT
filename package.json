@@ -1,0 +1,14 @@
+{
+  "name": "cypher-x",
+  "version": "1.0.0",
+  "description": "Multi-device WhatsApp bot by Salem",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "^8.14.1",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
